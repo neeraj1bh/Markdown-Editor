@@ -1,4 +1,28 @@
-# Getting Started with Create React App
+## Markdown Editor
+
+### React Web Application for Editing and Previewing Markdown.
+
+### Live Demo
+
+[Click here to see it live](https://edit-markdown.netlify.app/)
+
+## Installation
+
+```
+git clone https://github.com/neeraj1bh/Markdown-Editor.git
+cd [foldername]
+npm install && npm run dev
+
+```
+
+## Features
+
+- User can Type andSee theLive Preview for the Markdown
+
+## Built with
+
+- [React.js](https://github.com/facebook/react)
+- [React Markdown](https://github.com/remarkjs/react-markdown)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
